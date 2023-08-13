@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837829932511-6g8037afs5km9416tbelnsdofqsnvhbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837829932511-6g8037afs5km9416tbelnsdofqsnvhbu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtfq-UY8EFH7Rp6Ami4Ew4oMZWaNWE_ls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837829932511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fourtitude.recipeApp.RecipeApp</string>
+	<key>PROJECT_ID</key>
+	<string>recipeapp-54405</string>
+	<key>STORAGE_BUCKET</key>
+	<string>recipeapp-54405.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837829932511:ios:87b8e39733c572b96b806a</string>
+</dict>
+</plist>
